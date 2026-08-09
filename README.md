@@ -6,6 +6,9 @@ An IoT-based smart home automation system using ESP32 that provides voice-contro
 The Voice Control Home Automation With Smart Door Lock project is designed to make home automation more convenient, secure, accessible, and energy-efficient.
 The system uses an ESP32 microcontroller as the central controller and integrates multiple sensors and modules to monitor the home environment and automate different functions.
 Users can control home appliances through voice commands, Wi-Fi-based web/app control, and manual controls. The system also provides secure access through an RFID-based smart door lock.
+<h2>Block Daigram</h2>
+<img scr="images/block-daigram.png" alt="Block Daigram" width="600">
+
 <h2>✨ Features</h2>
 🎙️ Voice-controlled home appliances<br>
 🔐 RFID-based smart door lock<br>
